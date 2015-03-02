@@ -1,2 +1,3 @@
 # Course1
-This repo isfor the Cousera Data Scientist course.
+This repo is for the Cousera Data Scientist course.
+I just pulled this file from repo.
